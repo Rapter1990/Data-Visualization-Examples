@@ -4,8 +4,8 @@ Here are all my data analysis work showing one by one below.
 
 <table>
   <tr>
-    <td>Project Names</td>
-    <td>Information</td>
+    <th>Project Names</th>
+    <th>Information</th>
   </tr>
   <tr>
     <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/pubg">PUBG Weapon Stats Data Analysis</a></td>
