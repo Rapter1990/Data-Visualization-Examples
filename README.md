@@ -2,6 +2,8 @@
 
 Here are all my data analysis work showing one by one below. 
 
+Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
+
 <table>
   <tr>
     <th>Project Names</th>
