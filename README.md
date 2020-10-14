@@ -25,5 +25,8 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
     <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/UNESCO%20World%20Heritage%20Sites%202019">UNESCO World Heritage Sites 2019</a></td>
     <td>Analyzing dataset containing data about 1121 sites that are listed in the World Heritage List in 2019 by UNESCO except for drawing a figures about it and showing Folium Map including in all location sites </td>
   </tr>
+  <tr>
+    <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/edx">edX Courses</a></td>
+    <td>Analyzing dataset containing data about information about 976 courses that are currently available on the edx.org platform</td>
+  </tr>
 </table>
-
