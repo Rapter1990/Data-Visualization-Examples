@@ -53,6 +53,12 @@ Here is the dataset link : https://www.kaggle.com/bryanb/fifa-player-stats-datab
      <td align="center" colspan="2" > Figure 9 </td>
   </tr>
   <tr>
-     <td colspan="2" ><img width="1200" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/fifa%2021%20visualization/images/image9.png"></td>
+     <td colspan="2" ><img width="1200" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/fifa%2021%20visualization/images/image9.png">        </td>
+  </tr>
+  <tr>
+     <td align="center" colspan="2" > Figure 10 </td>
+  </tr>
+  <tr>
+     <td colspan="2" ><img width="1200" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/fifa%2021%20visualization/images/image10.png">        </td>
   </tr>
 </table>
