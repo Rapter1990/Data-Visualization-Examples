@@ -29,4 +29,8 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
     <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/edx">edX Courses</a></td>
     <td>Analyzing dataset containing data about information about 976 courses that are currently available on the edx.org platform</td>
   </tr>
+  <tr>
+    <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/fifa%2021%20visualization">FIFA21 Data Visualization</a></td>
+    <td>Analyzing dataset containing data about information about football players in FIFA21</td>
+  </tr>
 </table>
