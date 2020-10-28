@@ -19,6 +19,6 @@ The dataset is prepared by Aadil Tajani. Here is the dataset link : https://www.
   </tr>
   <tr>
     <td><img width="400" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/f1/images/image7.png"></td>
-    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/f1/images/image1.png"></td>
+    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/f1/images/image1.png"></td>
   </tr>
 </table>
