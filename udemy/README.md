@@ -10,5 +10,5 @@ The dataset is prepared by Larxel.
 Here is the link : https://www.kaggle.com/andrewmvd/udemy-courses
 
 ### Image
-![Image description](https://github.com/Rapter1990/Udemy-Data-Visualization/blob/master/images/image11.png)
+![Image description](https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/udemy/images/image11.png)
 
