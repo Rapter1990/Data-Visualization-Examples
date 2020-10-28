@@ -12,4 +12,4 @@ The dataset is prepared by Shivam Bansal.
 Here is the link : https://www.kaggle.com/shivamb/netflix-shows
 
 ### Image
-![Image description](https://github.com/Rapter1990/Netflix-Visualization/blob/master/images/icon.PNG)
+![Image description](https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/netflix/images/icon.PNG)
