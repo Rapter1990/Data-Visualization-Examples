@@ -18,7 +18,7 @@ Here is the link : https://www.kaggle.com/rushikeshhiray/berlin-wall-deaths
      <td align="center"> WordCloud 2 Picture </td>
   </tr>
   <tr>
-    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Berlin-Wall-Death/blob/master/images/image9.png"></td>
-    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Berlin-Wall-Death/blob/master/images/image10.png"></td>
+    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/berlin_wall/images/image9.png"></td>
+    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/berlin_wall/images/image10.png"></td>
   </tr>
  </table>
