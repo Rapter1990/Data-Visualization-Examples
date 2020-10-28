@@ -19,7 +19,7 @@ A significant earthquake is classified as one that meets at least one of the fol
      <td align="center"> Picture 2</td>
   </tr>
   <tr>
-    <td><img width="500" height="300" src ="https://github.com/Rapter1990/Earthquake-from-2100-BC/blob/master/images/image9.png"></td>
-    <td><img width="500" height="300" src ="https://github.com/Rapter1990/Earthquake-from-2100-BC/blob/master/images/image11.png"></td>
+    <td><img width="500" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/earthquakes/images/image9.png"></td>
+    <td><img width="500" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/earthquakes/images/image11.png"></td>
   </tr>
  </table>
