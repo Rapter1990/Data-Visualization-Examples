@@ -23,15 +23,15 @@ Here is the link : https://www.kaggle.com/xvivancos/star-wars-movie-scripts
      <td align="center"> WordCloud 2 Picture </td>
   </tr>
   <tr>
-    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Star-Wars-Movie-Scripts/blob/master/images/image4.png"></td>
-    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Star-Wars-Movie-Scripts/blob/master/images/image5.png"></td>
+    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/star%20wars/images/image4.png"></td>
+    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/star%20wars/images/image5.png"></td>
   </tr>
   <tr>
      <td align="center"> WordCloud 3 Picture </td>
      <td align="center"> WordCloud 4 Picture </td>
   </tr>
   <tr>
-    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Star-Wars-Movie-Scripts/blob/master/images/image6.png"></td>
-    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Star-Wars-Movie-Scripts/blob/master/images/image7.png"></td>
+    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/star%20wars/images/image6.png"></td>
+    <td><img width="400" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/star%20wars/images/image7.png"></td>
   </tr>
  </table>
