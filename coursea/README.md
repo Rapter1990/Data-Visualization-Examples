@@ -15,6 +15,6 @@ coursestudentsenrolled : It has the number of students that are enrolled in the 
 
 
 ### Image
-![Image description](https://github.com/Rapter1990/Coursera-Data-Visualization/blob/master/images/image11.png)
+![Image description](https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/coursea/images/image11.png)
 
 
