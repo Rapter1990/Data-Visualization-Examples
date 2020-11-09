@@ -58,10 +58,6 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
     <td>Analyzing dataset containing data about first three movies scripts of Star wars</td>
   </tr>
   <tr>
-    <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/star%20wars">Star Wars Scripts</a></td>
-    <td>Analyzing dataset containing data about first three movies scripts of Star wars</td>
-  </tr>
-  <tr>
     <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/udemy">Udemy</a></td>
     <td>Analyzing dataset containing data about courses on Udemy platform</td>
   </tr>
