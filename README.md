@@ -63,7 +63,7 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
   </tr>
   <tr>
     <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/Top%20Movies%20of%20the%2020th%20Century">Top Movies of 20th Century</a></td>
-    <td>Analyzing dataset containing data about courses on Udemy platform</td>
+    <td>Analyzing dataset containing data about movies appeared in the 20th Century</td>
   </tr>
 </table>
 
