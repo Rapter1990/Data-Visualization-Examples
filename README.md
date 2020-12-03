@@ -61,5 +61,9 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
     <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/udemy">Udemy</a></td>
     <td>Analyzing dataset containing data about courses on Udemy platform</td>
   </tr>
+  <tr>
+    <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/Top%20Movies%20of%20the%2020th%20Century">Top Movies of 20th Century</a></td>
+    <td>Analyzing dataset containing data about courses on Udemy platform</td>
+  </tr>
 </table>
 
