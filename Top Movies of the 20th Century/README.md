@@ -29,10 +29,10 @@ Here is the dataset link : https://www.kaggle.com/paramarthasengupta/top-movies-
      <td align="center"> Figure 4 </td>
   </tr>
   <tr>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image1.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image2.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image3.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image4.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image1.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image2.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image3.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image4.png"></td>
   </tr>
   <tr>
      <td align="center"> Figure 5 </td>
@@ -41,10 +41,10 @@ Here is the dataset link : https://www.kaggle.com/paramarthasengupta/top-movies-
      <td align="center"> Figure 8 </td>
   </tr>
   <tr>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image5.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image6.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image7.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image8.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image5.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image6.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image7.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image8.png"></td>
   </tr>
   <tr>
      <td align="center"> Figure 9 </td>
@@ -53,17 +53,17 @@ Here is the dataset link : https://www.kaggle.com/paramarthasengupta/top-movies-
      <td align="center"> Figure 12 </td>
   </tr>
   <tr>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image9.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image10.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image11.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image12.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image9.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image10.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image11.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image12.png"></td>
   </tr>
   <tr>
      <td align="center"> Figure 13 </td>
      <td align="center"> Figure 14 </td>
   </tr>
   <tr>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image13.png" </td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image14.png"></td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image13.png" </td>
+    <td><img width="650" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Top%20Movies%20of%20the%2020th%20Century/images/image14.png"></td>
   </tr>
 </table>
