@@ -69,5 +69,9 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
     <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/wii%20games%20and%20recommendation%20system">Wii Games and Recommendation System</a></td>
     <td>Analyzing dataset containing wii games with supporting recommendation system by their genre</td>
   </tr>
+  <tr>
+    <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/covid%20vacination">COVID-19 World Vaccination Progress</a></td>
+    <td>Analyzing dataset containing COVID-19 World Vaccination Progress since its vaccination is occurred</td>
+  </tr>
 </table>
 
