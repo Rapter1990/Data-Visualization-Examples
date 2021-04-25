@@ -19,9 +19,9 @@ Here is the dataset link : https://www.kaggle.com/tunguz/comic-characters
      <td align="center"> Figure 3 </td>
   </tr>
   <tr>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image1.png"></td>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image2.png"></td>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image3.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image1.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image2.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image3.png"></td>
   </tr>
   <tr>
      <td align="center"> Figure 4 </td>
@@ -29,9 +29,9 @@ Here is the dataset link : https://www.kaggle.com/tunguz/comic-characters
      <td align="center"> Figure 6 </td>
   </tr>
   <tr>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image4.png"></td>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image5.png"></td>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image6.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image4.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image5.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image6.png"></td>
   </tr>
   <tr>
      <td align="center"> Figure 7 </td>
@@ -39,9 +39,9 @@ Here is the dataset link : https://www.kaggle.com/tunguz/comic-characters
      <td align="center"> Figure 9 </td>
   </tr>
   <tr>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image7.png"></td>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image8.png"></td>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image9.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image7.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image8.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image9.png"></td>
   </tr>
   <tr>
      <td align="center"> Figure 10 </td>
@@ -49,8 +49,8 @@ Here is the dataset link : https://www.kaggle.com/tunguz/comic-characters
      <td align="center"> Figure 12 </td>
   </tr>
   <tr>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image10.png"></td>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image11.png"></td>
-    <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image12.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image10.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image11.png"></td>
+    <td><img width="800" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Comic%20Characters/images/image12.png"></td>
   </tr>
 </table>
