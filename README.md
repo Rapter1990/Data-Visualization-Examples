@@ -73,5 +73,9 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
     <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/covid%20vacination">COVID-19 World Vaccination Progress</a></td>
     <td>Analyzing dataset containing COVID-19 World Vaccination Progress since its vaccination is occurred</td>
   </tr>
+  <tr>
+    <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/Comic%20Characters">Comic Characters</a></td>
+    <td>Analyzing dataset containing DC and Marvel Comic Characters</td>
+  </tr>
 </table>
 
