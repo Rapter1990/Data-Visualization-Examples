@@ -77,5 +77,9 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
     <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/Comic%20Characters">Comic Characters</a></td>
     <td>Analyzing dataset containing data about DC and Marvel Comic Characters</td>
   </tr>
+  <tr>
+    <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/WW2%20Aircraft">WW2 Aircraft</a></td>
+    <td>Analyzing dataset containing warplanes which was used during WW2</td>
+  </tr>
 </table>
 
