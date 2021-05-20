@@ -1,0 +1,339 @@
+Name;PrimaryRole;Manufacturer;Country;Number;ActiveSince;LastBuilt;Retired;State;Crew;Length;Wingspan;Height;WingArea;MaxSpeed
+130;Seaplane;Loire Aviation, Saint-Nazaire, France;France;125;1937;1942;1951;Retired;3;11.3;16;3.58;38.17;220
+143;Medium Bomber;Avions Amiot;France;138;1935;1937;1944;Retired;5;18.24;24.53;5.68;100;295
+2MB1;Light Bomber;Mitsubishi Heavy Industries;Japan;48;1926;;1931;Retired;2;10;14.8;3.63;60;185
+2MR8;Reconnaissance Aircraft;Mitsubishi Heavy Industries;Japan;234;1932;1936;1938;Retired;2;8.52;12.75;3.48;26;220
+351/354;Medium Bomber;Avions Amiot;France;86;1939;1940;1940;Retired;4;14.5;22.83;4.08;67;480
+A-17;Ground Attack Aircraft;Northrop Corporation;United States;411;1935;;1944;Retired;2;9.67;14.54;3.62;33.7;332
+A-20 Havoc;Medium Bomber;Douglas Aircraft Company;United States;7478;1941;1944;1949;Retired;3;14.63;18.68;5.52;43.1;523
+A-26 Invader;Medium Bomber;Douglas Aircraft Company;United States;2452;1943;;1972;Retired;3;15.2;20.6;5.6;50;570
+A-29 Hudson;Medium Bomber;Lockheed Corporation;United States;2941;1939;1943;1944;Retired;6;13.51;19.96;3.62;51.2;387
+A-31 Vengeance;Dive Bomber;Vultee Aircraft Corporation;United States;1931;1941;;1948;Retired;2;12.12;14.63;4.67;30.84;443
+A-36A Mustang;Ground Attack Aircraft;North American Aviation;United States;500;1942;;1945;Retired;1;9.83;11.28;3.71;11.28;590
+A.W.38 Whitley;Medium Bomber;Armstrong Whitworth Aircraft;United Kingdom;1814;1937;;1945;Retired;5;21.49;25.6;4.57;105.6;370
+A.W.41 Albemarle;Transport;Armstrong Whitworth Aircraft;United Kingdom;602;1941;1944;1946;Retired;10;18.26;23.47;4.75;74.65;426
+A2N;Fighter;Nakajima Aircraft Company;Japan;100;1932;1936;1937;Retired;1;6.183;9.37;3.025;19.74;293
+A5M;Fighter;Mitsubishi Heavy Industries;Japan;1094;1936;;1945;Retired;1;7.565;11;3.27;17.8;435
+A6M Zero;Fighter;Mitsubishi Heavy Industries;Japan;10939;1940;1945;1945;Retired;1;9.06;12;3.05;22.44;533
+A7M Reppu;Fighter;Mitsubishi Heavy Industries;Japan;10;1944;1945;1945;Retired;1;11.04;14;4.28;30.86;628
+Albacore;Torpedo Bomber;Fairey Aviation;United Kingdom;800;1940;;1949;Retired;2;12.22;15.24;3.94;57.9;259
+Anson;Trainer Aircraft;Avro;United Kingdom;11020;1936;1952;1968;Retired;4;12.88;17.22;3.99;43;303
+Ar 195;Torpedo Bomber;Arado Flugzeugwerke;Germany;3;1937;;1937;Retired;2;10.5;12.5;3;46;290
+Ar 196;Seaplane;Arado Flugzeugwerke;Germany;541;1938;1944;1945;Retired;1;11;12.54;4.45;28.4;311
+Ar 232;Transport;Arado Flugzeugwerke;Germany;20;1943;;1945;Retired;4;23.52;33.5;5.69;142.6;308
+Ar 234 Blitz;Medium Bomber;Arado Flugzeugwerke;Germany;214;1944;1944;1945;Retired;1;12.64;14.41;4.29;26.4;742
+Ar 68;Fighter;Arado Flugzeugwerke;Germany;511;1936;;1944;Retired;1;9.5;11;3.3;;330
+Ar 95;Seaplane;Arado Flugzeugwerke;Germany;42;1936;;1944;Retired;2;11.1;12.5;3.6;45.4;310
+AS.10 Oxford;Trainer Aircraft;Airspeed Limited;United Kingdom;8751;1937;1958;1960;Retired;3;10.52;16.26;3.38;32.3;309
+AT-6 Texan;Trainer Aircraft;North American Aviation;United States;15495;1937;;1995;Retired;2;8.8;13;3.56;23.57;335
+B-10;Medium Bomber;Glenn L. Martin Company;United States;348;1934;1940;1949;Retired;3;13.64;21.49;4.7;63;343
+B-17 Flying Fortress;Heavy Bomber;The Boeing Company;United States;12731;1938;1945;1968;Retired;10;22.66;31.62;5.82;131.92;462
+B-18 Bolo;Medium Bomber;Douglas Aircraft Company;United States;350;1936;1939;1946;Retired;6;17.6;27.3;4.6;89.1;348
+B-23 Dragon;Medium Bomber;Douglas Aircraft Company;United States;38;1939;1940;1943;Retired;6;17.799;28.04;5.626;92.3;454
+B-24 Liberator;Heavy Bomber;Consolidated Aircraft;United States;18188;1941;1945;1968;Retired;11;20.47;34;5.372;97.4;478
+B-25 Mitchell;Medium Bomber;North American Aviation;United States;9816;1941;;1979;Retired;5;16.13;20.6;4.98;57.4;438
+B-26 Marauder;Medium Bomber;Glenn L. Martin Company;United States;5288;1941;1945;1947;Retired;7;17.75;21.64;6.55;61.13;454
+B-29 Superfortress;Heavy Bomber;The Boeing Company;United States;3970;1944;1946;1960;Retired;11;30.18;43.05;8.46;161.3;575
+B-32 Dominator;Heavy Bomber;Consolidated Aircraft;United States;118;1945;1945;1945;Retired;10;25.3;41.2;10.1;132.1;575
+B-534;Biplane Fighter;Avia;Czechoslovakia;537;1934;1939;1944;Retired;1;8.2;9.4;3.1;23.56;405
+B1M;Torpedo Bomber;Mitsubishi Heavy Industries;Japan;443;1924;;1936;Retired;2;9.77;14.77;3.5;59;210
+B2M;Torpedo Bomber;Mitsubishi Heavy Industries;Japan;206;1932;;1940;Retired;3;10.27;15.22;3.71;55;213
+B4Y;Torpedo Bomber;Yokosuka Naval Air Technical Arsenal;Japan;205;1936;1938;1943;Retired;3;10.15;15;4.36;50;278
+B5M;Torpedo Bomber;Mitsubishi Heavy Industries;Japan;125;1937;;1945;Retired;3;10.234;15.3;4.32;37.95;379
+B5N;Torpedo Bomber;Nakajima Aircraft Company;Japan;1149;1939;1943;1945;Retired;3;10.3;15.518;3.7;37.7;378
+B6N Tenzan;Torpedo Bomber;Nakajima Aircraft Company;Japan;1268;1943;1945;1945;Retired;3;10.865;14.894;3.8;37.2;482
+B7A Ryusei;Dive Bomber;Aichi Kokuki KK;Japan;105;1944;1945;1945;Retired;2;11.49;14.4;4.075;35.4;567
+Ba 349 Natter;Prototype Aircraft;Bachem;Germany;11;1945;1945;1945;Retired;1;6.1;3.7;1.2;3.6;800
+Ba.65 Nibbio;Fighter;Societ Italiana Ernesto Breda;Italy;219;1936;1939;1941;Retired;1;9.3;12.1;3.2;23.5;430
+Barracuda;Dive Bomber;Fairey Aviation;United Kingdom;2607;1943;1945;1953;Retired;3;12.12;14.99;4.62;37.6;390
+Battle;Light Bomber;Fairey Aviation;United Kingdom;2185;1937;1940;1949;Retired;3;12.9;16.46;4.72;39.2;414
+Be-4;Seaplane;Beriev OKB;Russia;46;1942;1945;1946;Retired;3;10.5;12;4.05;25.5;356
+Beaufighter;Heavy Fighter;Bristol Aeroplane Company;United Kingdom;5928;1940;1946;1960;Retired;2;12.6;17.63;4.83;46.7;510
+Beaufort;Torpedo Bomber;Bristol Aeroplane Company;United Kingdom;2129;1939;;1944;Retired;4;13.46;17.63;4.34;46.7;436.9
+Bf 108 Taifun;Sport Aircraft;Bayerische Flugzeugwerke AG;Germany;885;1935;1944;1945;Retired;2;8.29;10.5;2.3;16.4;305
+Bf 109;Fighter;Messerschmitt AG;Germany;33984;1936;1945;1965;Retired;1;8.95;9.925;2.6;16.05;640
+Bf 110;Heavy Fighter;Messerschmitt AG;Germany;6170;1936;1945;1945;Retired;3;12.3;16.3;3.3;38.8;595
+BF2C Goshawk;Biplane Fighter;Curtiss-Wright Corporation;United States;164;1933;1934;1949;Retired;1;7.42;9.6;3.035;24.3;410
+BI;Prototype Aircraft;OKB-293, Khimki/Bilimbay, Russia;Russia;9;1942;;1945;Retired;1;6.4;6.48;2.06;7;800
+Blenheim;Medium Bomber;Bristol Aeroplane Company;United Kingdom;4422;1937;1939;1956;Retired;3;13;17.2;3;43.6;428
+Bombay;Medium Bomber;Bristol Aeroplane Company;United Kingdom;51;1939;1940;1944;Retired;4;21.11;29.18;6.07;124;309
+Boomerang;Fighter;Commonwealth Aircraft Corporation;Australia;250;1943;1945;1945;Retired;1;7.77;10.97;2.92;20.9;491
+BR.20 Cicogna;Medium Bomber;Fiat;Italy;279;1936;1940;1945;Retired;5;16.68;21.56;4.75;74;440
+Bre.19;Light Bomber;Socit des Ateliers d'Aviation Louis Brguet;France;2700;1924;;1945;Retired;2;9.61;14.83;3.69;50;214
+BT-13 Valiant;Trainer Aircraft;Vultee Aircraft Corporation;United States;11538;1939;1944;1963;Retired;2;8.79;12.8;3.51;22.2;290
+BTD Destroyer;Torpedo Bomber;Douglas Aircraft Company;United States;30;1944;1945;1945;Retired;1;11.77;14.64;5.05;34.7;554
+BV 138 Seedrache;Seaplane;Blohm & Vo<U+07E0>;Germany;297;1940;1943;1945;Retired;6;19.85;26.94;5.9;112;285
+BV 141;Prototype Aircraft;Blohm & Vo<U+07E0>;Germany;26;1938;;1945;Retired;3;13.95;17.45;3.6;52.9;438
+BV 222 Wiking;Seaplane;Blohm & Vo<U+07E0>;Germany;13;1941;;1945;Retired;14;37;46;10.9;255;390
+B 181;Trainer Aircraft;Bcker Flugzeugbau GmbH;Germany;3400;1940;1959;;Active;2;7.85;10.6;2.05;13.5;215
+C-0101;Transport;;China;1;1944;1944;1948;Retired;2;;;;;349
+C-45 Expeditor;Transport;Beech Aircraft Corporation;United States;1300;1937;1970;1976;Retired;2;10.44;14.53;2.97;32.4;362
+C-46 Commando;Transport;Curtiss-Wright Corporation;United States;3181;1941;1945;;Active;5;23.27;32.92;6.63;126;430
+C-47 Skytrain;Transport;Douglas Aircraft Company;United States;10000;1941;1945;;Active;4;19.43;29.11;5.18;91.7;360
+C-54 Skymaster;Transport;Douglas Aircraft Company;United States;1170;1942;1947;1975;Retired;4;28.6;35.81;8.38;136;443
+C-64 Norseman;Transport;Noorduyn Aviation Ltd, Montreal, Canada;Canada;904;1935;1949;;Active;1;9.86;15.7;3.07;30.2;249
+C-69 Constellation;Transport;Lockheed Corporation;United States;22;1943;1945;1945;Retired;4;29.01;37;6.83;153;530
+C-75 Stratoliner;Transport;The Boeing Company;United States;10;1938;1938;1975;Retired;5;22.6;32.63;6.33;138;387
+C.200 Saetta;Fighter;Aeronautica Macchi;Italy;1153;1939;1943;1946;Retired;1;8.25;10.58;3.05;16.82;504
+C.202 Folgore;Fighter;Aeronautica Macchi;Italy;1150;1941;1946;1951;Retired;1;8.85;10.58;3.49;16.82;600
+C.205 Veltro;Fighter;Aeronautica Macchi;Italy;262;1943;1944;1950;Retired;1;8.85;10.58;3.04;16.8;642
+C6N Saiun;Reconnaissance Aircraft;Nakajima Aircraft Company;Japan;463;1944;1945;1945;Retired;3;11;12.5;3.96;25.5;610
+Ca.111;Reconnaissance Aircraft;Caproni;Italy;154;1932;1936;1940;Retired;4;15.3;19.65;3.85;61.5;290
+Ca.133;Reconnaissance Aircraft;Caproni;Italy;506;1935;1939;1948;Retired;7;15.36;21.24;4;65;230
+Ca.309 Ghibli;Transport;Caproni;Italy;247;1936;1944;1948;Retired;3;132.906;16.2;3.04;38.7;250
+Ca.331 Raffica;Prototype Aircraft;Caproni;Italy;3;1940;1942;1943;Retired;3;117.412;164.021;32.068;38.5;505
+CG-4A;Glider;Weaver Aircraft Company;United States;13903;1942;1945;1952;Retired;2;14.8;25.5;4.7;83.6;240
+CR.25;Fighter;Fiat;Italy;12;1937;1943;1943;Retired;3;13.56;16;3.3;39.2;450
+CR.32;Biplane Fighter;Fiat;Italy;1212;1934;1936;1953;Retired;1;7.47;9.5;2.36;22.1;360
+CR.42 Falco;Biplane Fighter;Fiat;Italy;1819;1939;1943;1945;Retired;1;8.25;9.7;3.585;22.4;441
+CW-21;Fighter;Curtiss-Wright Corporation;United States;62;1939;1940;1942;Retired;1;8.293;10.67;2.49;16.19;505
+D.500;Fighter;Constructions Aronautiques mile Dewoitine;France;383;1935;1937;1937;Retired;1;7.94;12.09;2.42;16.5;402
+D.520;Fighter;Constructions Aronautiques mile Dewoitine;France;900;1940;1942;1953;Retired;1;8.6;10.2;2.57;15.87;560
+D.XXI;Fighter;Fokker;Netherlands;148;1936;1940;1948;Retired;1;8.2;11;2.92;16.2;460
+D3A;Dive Bomber;Aichi Kokuki KK;Japan;1486;1940;1942;1945;Retired;2;10.195;14.365;3.847;34.9;430
+D4Y Suisei;Dive Bomber;Yokosuka Naval Air Technical Arsenal;Japan;2038;1942;1945;1945;Retired;2;10.22;11.5;3.74;23.6;550
+DB-3/Il-4;Medium Bomber;Ilyushin;Russia;1528;1937;1940;1947;Retired;3;14.22;21.44;4.19;65.6;439
+DFS 230;Glider;Deutsche Forschungsanstalt fr Segelflug;Germany;1600;1939;1943;1945;Retired;1;11.24;21.98;2.74;21.3;290
+DH.89 Dominie;Short-Haul Airliner;de Havilland Aircraft Company;United Kingdom;727;1934;2009;;Active;1;10.52;14.63;3.12;31.2;253
+Do 17;Light Bomber;Dornier Flugzeugwerke;Germany;2139;1937;;1952;Retired;4;15.8;18;4.56;55;350
+Do 18;Seaplane;Dornier Flugzeugwerke;Germany;170;1935;1939;1942;Retired;4;19.23;23.7;5.32;98;250
+Do 217;Medium Bomber;Dornier Flugzeugwerke;Germany;1730;1942;1944;1945;Retired;4;17;19;4.97;57;560
+Do 24;Seaplane;Dornier Flugzeugwerke;Germany;279;1937;1945;;Active;6;22.05;27;5.75;108;330
+Do 335 Pfeil;Heavy Fighter;Dornier Flugzeugwerke;Germany;37;1944;1945;1945;Retired;1;13.85;13.8;5;38.5;763
+Do X;Seaplane;Dornier Flugzeugwerke;Germany;3;1929;1932;1937;Retired;14;40.05;47.8;10.25;486.2;242
+E13A;Reconnaissance Aircraft;Aichi Kokuki KK;Japan;1418;1941;;1945;Retired;3;11.3;14.5;7.4;36;376
+E14Y;Seaplane;Yokosuka Naval Air Technical Arsenal;Japan;126;1941;;1943;Retired;2;8.54;11;3.8;19;246
+E15K Shiun;Seaplane;Kawanishi Aircraft Company;Japan;15;1941;1944;1945;Retired;2;11.587;14;4.95;30;469
+E16A Zuiun;Seaplane;Aichi Kokuki KK;Japan;256;1944;1945;1945;Retired;2;10.833;12.81;4.791;28;439
+E7K;Seaplane;Kawanishi Aircraft Company, Japan;Japan;533;1933;1941;1945;Retired;3;10.41;14;4.85;43.6;276
+E8N;Seaplane;Nakajima Aircraft Company;Japan;755;1935;1940;1945;Retired;2;8.81;10.98;3.84;26.5;300
+E9W;Seaplane;Watanabe Steel Foundry, Japan;Japan;35;1938;;1942;Retired;2;8;9.91;3.71;23.51;232
+F.220;Heavy Bomber;Farman Aviation Works;France;80;1937;1938;1941;Retired;5;22.57;35.65;6.38;184.6;360
+F1M;Reconnaissance Aircraft;Mitsubishi Heavy Industries;Japan;1118;1941;1944;1945;Retired;2;9.5;11;4;29.5;370
+F2A Buffalo;Fighter;Brewster Aeronautical Corporation;United States;509;1939;1941;1948;Retired;1;8.03;10.67;3.66;19.4;517
+F4F Wildcat;Fighter;Grumman Aircraft Engineering Corporation;United States;7722;1938;1945;1945;Retired;1;8.76;11.58;3.61;24;533
+F4U Corsair;Fighter;Chance Vought Corporation;United States;12571;1942;1953;1979;Retired;1;10.26;12.5;4.5;29.17;717
+F6F Hellcat;Fighter;Grumman Aircraft Engineering Corporation;United States;12275;1943;1945;1960;Retired;1;10.24;13.06;3.99;31;629
+Fi 156 Storch;Reconnaissance Aircraft;Gerhard Fieseler Werke;Germany;2900;1937;1965;1970;Retired;2;9.91;14.25;3.05;26;175
+Fi 167;Torpedo Bomber;Gerhard Fieseler Werke;Germany;14;1940;1940;1940;Retired;2;11.4;13.5;4.8;45.5;325
+Firebrand;Torpedo Bomber;Blackburn Aircraft Limited;United Kingdom;223;1945;1947;1953;Retired;1;11.81;15.634;4.04;35.6;550
+Firefly;Heavy Fighter;Fairey Aviation;United Kingdom;1702;1943;1955;1956;Retired;2;11.56;12.55;4.37;31;621
+FN.305;Trainer Aircraft;Fratelli Nardi;Italy;211;1937;1943;1948;Retired;2;6.98;8.47;2.1;12;300
+FR Fireball;Jet Fighter;Ryan Aeronautical Company;United States;71;1945;1945;1947;Retired;1;9.86;12.19;4.24;25.5;650
+Fulmar;Heavy Fighter;Fairey Aviation;United Kingdom;600;1940;1943;1945;Retired;2;12.24;141.288;4.27;31.8;438
+Fw 187 Falke;Fighter;Focke-Wulf Flugzeugbau GmbH;Germany;9;;1937;;Cancelled;2;11.1;15.3;3.85;30.4;525
+Fw 189 Uhu;Reconnaissance Aircraft;Focke-Wulf Flugzeugbau GmbH;Germany;846;1941;1944;1945;Retired;3;11.9;18.4;3.1;38;344
+Fw 190 Wrger;Fighter;Focke-Wulf Flugzeugbau GmbH;Germany;20051;1941;1945;1949;Retired;1;9.95;10.506;3.15;18.3;652
+Fw 200 Condor;Heavy Bomber;Focke-Wulf Flugzeugbau GmbH;Germany;276;1937;1944;1945;Retired;5;23.45;32.85;6.3;119.85;380
+Fw 44 Stieglitz;Trainer Aircraft;Focke-Wulf Flugzeugbau GmbH;Germany;1900;1935;1943;1962;Retired;2;7.3;9;2.7;20;185
+G.12;Transport;Fiat;Italy;104;1941;1949;1956;Retired;4;20.1;28.6;4.9;113;390
+G.50 Freccia;Fighter;Fiat;Italy;778;1939;1942;1945;Retired;1;8.01;10.99;3.28;18.25;470
+G.55 Centauro;Fighter;Fiat;Italy;349;1943;1946;1945;Retired;1;9.37;11.85;3.13;21.11;623
+G.A.L. 49 Hamilcar;Glider;General Aircraft Limited;United Kingdom;344;1942;1946;1950;Retired;2;21;22.53;6.17;153.99;240
+G.I;Heavy Fighter;Fokker;Netherlands;63;1939;1941;1941;Retired;3;10.87;17.16;3.8;38.3;475
+G3M;Medium Bomber;Mitsubishi Heavy Industries;Japan;1048;1935;1941;1945;Retired;7;16.45;25;3.68;75;375
+G4M;Medium Bomber;Mitsubishi Heavy Industries;Japan;2435;1941;1945;1945;Retired;7;19.97;24.89;4.9;78.125;428
+GL-812 HY;Seaplane;Gourdou-Leseurre;France;86;1931;1934;1940;Retired;3;10.49;16;3.86;41;200
+GL-832 HY;Seaplane;Gourdou-Leseurre;France;22;1934;1936;1941;Retired;2;8.74;13;3.48;29.5;196
+Gladiator;Biplane Fighter;Gloster Aircraft Ltd;United Kingdom;747;1937;;1953;Retired;1;8.36;9.83;3.58;30;407
+H6K;Seaplane;Kawanishi Aircraft Company;Japan;217;1938;1942;1948;Retired;9;25.63;40;6.27;170;340
+H8K;Seaplane;Kawanishi Aircraft Company;Japan;167;1941;1945;1945;Retired;10;28.13;38;9.15;160;467
+Halifax;Heavy Bomber;Handley Page, Limited;United Kingdom;6176;1940;1946;1961;Retired;7;21.82;31.75;6.32;111;454
+Hampden;Medium Bomber;Handley Page, Limited;United Kingdom;1430;1938;1941;1943;Retired;4;16.33;21.08;4.55;62.1;398
+He 111 Doppel-Blitz;Medium Bomber;Heinkel Flugzeugwerke;Germany;6508;1936;1944;1945;Retired;5;16.4;22.6;4;87.6;440
+He 112;Fighter;Heinkel Flugzeugwerke;Germany;103;1935;1938;1948;Retired;1;9;11.5;3.7;23.2;488
+He 115;Seaplane;Heinkel Flugzeugwerke;Germany;138;1939;1941;1952;Retired;3;17.3;22.28;6.6;87.5;327
+He 162 Volksjger;Jet Fighter;Heinkel Flugzeugwerke;Germany;320;1945;1945;1945;Retired;1;9.05;7.2;2.6;11.16;905
+He 177 Greif;Heavy Bomber;Heinkel Flugzeugwerke;Germany;1169;1942;1944;1945;Retired;6;22;31.44;6.67;100;488
+He 178;Prototype Aircraft;Heinkel Flugzeugwerke;Germany;1;1939;1939;1939;Retired;1;7.48;7.2;2.1;9.1;598
+He 219 Uhu;Night Fighter;Heinkel Flugzeugwerke;Germany;300;1943;1944;1945;Retired;2;15.33;18.5;4.1;44.5;670
+He 280;Prototype Aircraft;Heinkel Flugzeugwerke;Germany;9;;1943;;Cancelled;1;10.198;1.199.726;31.941;21.51;809.5
+He 70 Blitz;Transport;Heinkel Flugzeugwerke;Germany;324;1933;;1954;Retired;3;11.7;14.8;3.1;36.5;360
+Horsa;Glider;Airspeed Limited;United Kingdom;3600;1944;1945;1945;Retired;2;20.42;26.82;5.94;102.6;242
+Hs 123;Ground Attack Aircraft;Henschel & Sohn;Germany;248;1936;1937;1944;Retired;1;8.3;10.5;3.2;24.9;341
+Hs 126;Transport;Henschel & Sohn;Germany;913;1937;1942;1942;Retired;2;10.9;14.5;3.8;31.6;356
+Hs 129;Ground Attack Aircraft;Henschel & Sohn;Germany;865;1942;1944;1945;Retired;1;9.75;14.2;3.25;29;407
+Hurricane;Fighter;Hawker Aviation;United Kingdom;14533;1937;1944;1945;Retired;1;9.83;12.19;4.001;23.92;550
+I-15;Biplane Fighter;Polikarpov Design Bureau;Russia;3313;1934;1937;1942;Retired;1;6.1;9.75;7.5;21.9;367
+I-16;Fighter;Polikarpov Design Bureau;Russia;8644;1934;1942;1952;Retired;1;6.13;9;3.25;14.5;525
+IAR 80;Fighter;Industria Aeronautic? Romn?;Romania;346;1941;1944;1952;Retired;1;8.97;11;3.6;17;510
+IK-3;Fighter;Rogozarski A.D., Belgrade;Yugoslavia;13;1940;1939;1941;Retired;1;8;10.3;3.25;16.5;527
+Il-2 Shturmovik;Ground Attack Aircraft;Ilyushin;Russia;36163;1941;1945;1954;Retired;2;11.65;14.6;4.17;38.5;410
+J1N;Night Fighter;Nakajima Aircraft Company;Japan;479;1942;1944;1945;Retired;2;12.77;16.98;4.56;40;507
+J2F Duck;Seaplane;Grumman Aircraft Engineering Corporation;United States;584;1936;;1953;Retired;2;10.37;11.9;4.25;38;304
+J2M Raiden;Fighter;Mitsubishi Heavy Industries;Japan;621;1942;1945;1945;Retired;1;9.945;10.8;3.81;20.05;587
+J7W Shinden;Fighter;Kyushu Hikoki K. K., Japan;Japan;2;1945;1945;;Retired;1;9.66;11.114;3.92;20.5;750
+J8M Shusui / Ki-200;Fighter;Mitsubishi Heavy Industries;Japan;7;1945;1945;1945;Retired;1;6.03;9.5;2.68;17.72;900
+J9N-1/J9Y Kikka;Jet Fighter;Nakajima Aircraft Company;Japan;10;1945;1945;;Retired;1;8.125;10;2.95;13.2;696
+Ju 188;Medium Bomber;Junkers;Germany;1234;1943;1944;1951;Retired;4;14.948;22;4.45;55.99;499
+Ju 290;Transport;Junkers;Germany;65;1942;1946;1945;Retired;9;28.64;42;6.83;205.3;439
+Ju 388 Strtebeker;Medium Bomber;Junkers;Germany;69;1944;1945;1945;Retired;3;15.2;22;4.35;56;616
+Ju 52;Transport;Junkers;Germany;4845;1934;1952;;False;2;18.9;29.248;5.55;110.5;276.8
+Ju 87 Stuka;Dive Bomber;Junkers;Germany;6500;1936;1944;1945;Retired;2;11.1;13.805;4.01;31.9;383
+Ju 88;Medium Bomber;Junkers;Germany;15183;1938;1945;1951;Retired;4;1.439.332;20.003;5.07;54.5;550
+Ju 89;Prototype Aircraft;Junkers;Germany;2;;1937;;Cancelled;5;26.49;35.27;7.61;184;386
+K-Class Airship;Patrol Airship;Goodyear Aircraft Corporation;United States;134;1938;1954;1959;Retired;10;76.73;17.63;;;125
+K7M;Prototype Aircraft;Mitsubishi Heavy Industries;Japan;2;;1938;;Cancelled;2;13.23;19.96;3.45;50.3;260
+KDA-2;Reconnaissance Aircraft;Kawasaki Heavy Industries;Japan;1117;1928;1932;1940;Retired;2;12.8;15;3.4;48;221
+Ki-1;Medium Bomber;Mitsubishi Heavy Industries;Japan;118;1933;1936;1937;Retired;4;14.8;26.5;4.92;90.74;220
+Ki-10;Fighter;Kawasaki Heavy Industries;Japan;588;1935;1935;1942;Retired;1;7.2;10.02;3;23;400
+Ki-115 Tsurugi;Other;Nakajima Aircraft Company;Japan;105;1945;1945;1945;Retired;1;8.55;8.6;3.3;12.4;550
+Ki-15;Reconnaissance Aircraft;Mitsubishi Heavy Industries;Japan;500;1937;1939;1951;Retired;2;8.7;12;3.35;20.36;480
+Ki-2;Light Bomber;Mitsubishi Heavy Industries;Japan;187;1933;1938;1939;Retired;3;12.6;19.9;4.6;56;225
+Ki-20;Heavy Bomber;Mitsubishi Heavy Industries;Japan;6;1931;1935;1940;Retired;10;23.2;44;7;294;200
+Ki-21;Medium Bomber;Mitsubishi Heavy Industries;Japan;2064;1938;1944;1945;Retired;7;16;22.5;4.85;69.9;485
+Ki-27;Fighter;Nakajima Aircraft Company;Japan;3368;1937;1942;1945;Retired;1;7.53;11.31;2.25;18.56;470
+Ki-30;Light Bomber;Mitsubishi Heavy Industries;Japan;704;1938;1941;1945;Retired;2;10.35;14.55;3.65;30.58;423
+Ki-32;Light Bomber;Kawasaki Heavy Industries;Japan;854;1938;1940;1942;Retired;2;11.65;15;2.9;34;423
+Ki-33;Fighter;Mitsubishi Heavy Industries;Japan;2;;1936;;Cancelled;1;7.54;11;3.19;17.8;474
+Ki-34;Transport;Nakajima Aircraft Company;Japan;351;1937;1942;1945;Retired;3;15.3;19.916;4.15;49.2;360
+Ki-36;Other;Tachikawa Aircraft Company Limited;Japan;1334;1938;1944;1945;Retired;2;8;11.8;3.64;20;348
+Ki-4;Reconnaissance Aircraft;Nakajima Aircraft Company;Japan;516;1934;1939;1943;Retired;2;7.73;12;3.5;29.7;153
+Ki-43 Hayabusa;Fighter;Nakajima Aircraft Company;Japan;5919;1941;1945;1945;Retired;1;8.92;10.84;3.27;21.4;530
+Ki-44 Shoki;Fighter;Nakajima Aircraft Company;Japan;1225;1942;1944;1945;Retired;1;8.84;9.45;3.25;15;605
+Ki-45 Toryu;Heavy Fighter;Kawasaki Heavy Industries;Japan;1701;1941;1945;1945;Retired;2;11;15.02;3.7;32;540
+Ki-46;Torpedo Bomber;Mitsubishi Heavy Industries;Japan;1742;1941;1942;1945;Retired;2;11;14.7;3.88;32;604
+Ki-48 Sokei;Medium Bomber;Kawasaki Aircraft Company Limited;Japan;1997;1940;1942;1945;Retired;4;12.75;17.45;3.8;40;505
+Ki-49 Donryu;Medium Bomber;Nakajima Aircraft Company;Japan;819;1941;1944;1945;Retired;8;16.5;20.424;4.25;69.05;492
+Ki-51;Ground Attack Aircraft;Mitsubishi Heavy Industries;Japan;2385;1939;1944;1945;Retired;2;9.21;12.1;2.73;24;424
+Ki-54;Trainer Aircraft;Tachikawa Aircraft Company Limited;Japan;1368;1941;1945;1952;Retired;2;11.94;17.9;3.58;40;375
+Ki-55;Trainer Aircraft;Tachikawa Aircraft Company Limited;Japan;1389;1940;1943;1953;Retired;2;8;11.8;3.64;20;349
+Ki-56;Transport;Kawasaki Aircraft Company Limited;Japan;121;1940;1943;1945;Retired;4;14.9;19.96;3.6;51.2;400
+Ki-57;Transport;Mitsubishi Heavy Industries;Japan;406;1942;1945;1945;Retired;4;16.1;22.6;4.86;70.08;470
+Ki-59;Transport;Nippon Kokusai Koku Kogyo K. K., Japan;Japan;59;1942;1945;1945;Retired;3;12.5;17;3.05;38.4;300
+Ki-61 Hien;Fighter;Kawasaki Heavy Industries;Japan;3078;1942;1945;1945;Retired;1;8.94;12;3.7;20;580
+Ki-67 Hiryu;Medium Bomber;Mitsubishi Heavy Industries;Japan;767;1944;1945;1945;Retired;8;18.7;22.5;7.7;65.85;537
+Ki-83;Fighter;Mitsubishi Heavy Industries;Japan;4;;1944;;Cancelled;2;12.5;15.5;4.6;33.5;704.5
+Ki-84 Hayate;Fighter;Nakajima Aircraft Company;Japan;3514;1944;1945;1945;Retired;1;9.92;11.238;3.385;21;682
+Ki-9;Other;Tachikawa Aircraft Company Limited;Japan;2618;1943;1945;1945;Retired;2;7.9;10.32;3.1;24.5;240
+Ki-98;Prototype Aircraft;Manshu Aircraft Company;Japan;1;;1942;;Cancelled;1;11.4;11.26;4.29;23.99;730
+Ku-8;Ground Attack Aircraft;Nippon Kokusai Koku Kogyo K. K., Japan;Japan;5;;1934;;Cancelled;2;8.17;12.88;3.57;28.5;328
+L-1 Vigilant;Light Observation;Stinson Aircraft Company;United States;324;1941;1944;1945;Retired;3;10.44;15.52;3.1;30.6;196
+L-14 Super Electra;Transport;Lockheed Corporation;United States;354;1937;1943;1944;Retired;2;13.51;19.96;3.48;51.19;400
+L-18 Lodestar;Transport;Lockheed Corporation;United States;625;1940;;1990;Retired;3;15.19;19.96;3.61;51.2;428
+L-2 Grasshopper;Reconnaissance Aircraft;Taylorcraft Aviation;United States;1984;1941;;;Active;2;6.9;10.8;2;16.8;148
+L-4 Grasshopper;Reconnaissance Aircraft;Piper Aircraft, Inc.;United States;20038;1938;1947;;Active;1;6.83;10.74;2.03;16.58;140
+L-5 Sentinel;Light Observation;Stinson Aircraft Company;United States;3896;1941;1945;1973;Retired;2;7.34;10.36;2.41;14.4;210
+L-6A Grasshopper;Reconnaissance Aircraft;Interstate Aircraft and Engineering Corporation;United States;574;1940;1942;1952;Retired;2;7.15;10.82;2.13;17.24;254
+La-5;Fighter;Lavochkin;Russia;9920;1942;1945;1947;Retired;1;8.67;9.8;2.54;17.5;648
+La-7;Fighter;Lavochkin;Russia;5753;1944;1946;1952;Retired;1;8.6;9.8;2.54;17.59;661
+LaGG-1;Fighter;Lavochkin;Russia;100;1940;1940;1940;Retired;1;8.81;9.8;4.4;17.5;600
+LaGG-3;Fighter;Lavochkin;Russia;6258;1941;1944;1945;Retired;1;8.81;9.8;2.54;17.4;589
+Lancaster;Heavy Bomber;Avro;United Kingdom;7377;1942;1946;1963;Retired;7;21.13;31.09;6.25;120.5;454
+LeO 451;Medium Bomber;Sud-Est;France;561;1938;1942;1957;Retired;4;17.17;22.52;5.24;66;495
+Lysander;Liaison Aircraft;Westland Aircraft Limited;United Kingdom;1786;1938;1939;1946;Retired;2;9.3;15.24;4.42;24;341
+M.14 Magister;Trainer Aircraft;Phillips & Powis Aircraft Limited;United Kingdom;1303;1937;1941;1952;Retired;2;7.506;10.31;2.03;16.4;229
+M.9 Master;Other;Phillips & Powis Aircraft Limited;United Kingdom;3249;1939;1942;1945;Retired;2;8.99;11.89;2.82;21.8;356
+M6A Seiran;Torpedo Bomber;Aichi Kokuki KK;Japan;28;1945;1945;1945;Retired;2;11.64;12.262;4.58;27;474
+Manchester;Heavy Bomber;Avro;United Kingdom;202;1940;1941;1942;Retired;7;21;27.46;5.94;105.1;426
+MB.150;Fighter;Socit des Avions Marcel Bloch;France;663;1939;;1943;Retired;1;9.1;10.54;3.03;17.32;509
+MB.200;Medium Bomber;Societ des Avions Marcel Bloch;France;332;1935;1939;1939;Retired;4;16;22.45;3.9;62.5;285
+MB.210;Medium Bomber;Societ des Avions Marcel Bloch;France;300;1935;1937;1945;Retired;5;18.83;22.82;6.7;62.5;322
+MBR-2;Seaplane;Beriev OKB;Russia;1365;1931;;1941;Retired;5;13.5;19;4.4;55;275
+Me 163 Komet;Jet Fighter;Messerschmitt AG;Germany;370;1944;1945;1945;Retired;1;5.7;9.3;2.5;19.6;900
+Me 210;Heavy Fighter;Messerschmitt AG;Germany;90;1943;1945;1945;Retired;2;12.2;16.3;4.2;36.2;580
+Me 262 Schwalbe;Jet Fighter;Messerschmitt AG;Germany;1433;1944;1945;1951;Retired;1;10.6;12.6;3.5;21.7;900
+Me 323 Gigant;Glider;Messerschmitt AG;Germany;198;1943;1944;1944;Retired;5;28.2;55.2;10.15;300;285
+Me 410 Hornisse;Heavy Fighter;Messerschmitt AG;Germany;1189;1943;1944;1945;Retired;2;12.484;163.513;4.28;362.031;624
+Meteor;Jet Fighter;Gloster Aircraft Ltd;United Kingdom;3947;1944;1955;1980;Retired;1;13.59;11.33;3.96;33;970
+MiG-1;Fighter;Mikoyan-Gurevich;Russia;104;1940;1940;1944;Retired;1;8.16;10.2;2.62;17.5;657
+MiG-3;Fighter;Mikoyan-Gurevich;Russia;3422;1941;1941;1945;Retired;1;8.25;10.2;3.3;17.44;640
+Model 167 Maryland;Medium Bomber;Glenn L. Martin Company;United States;450;1940;1943;1945;Retired;3;14.2;18.7;5;49.9;489
+Model 187 Baltimore;Medium Bomber;Glenn L. Martin Company;United States;1575;1941;;1949;Retired;4;14.8;18.7;4.32;50;488
+Mosquito;Light Bomber;de Havilland Aircraft Company;United Kingdom;7781;1941;1950;1956;Retired;2;13.56;16.51;5.31;42.2;668
+MS.406;Fighter;Aroplanes Morane-Saulnier;France;1176;1938;1940;1944;Retired;1;8.17;10.61;3.25;16;490
+MT-1 Hayabusa;Transport;Manshu Aircraft Company;Japan;55;1937;;1940;Retired;1;9.38;13.6;3.6;27.3;240
+MXY7 Ohka;Other;Yokosuka Naval Air Technical Arsenal;Japan;852;1945;1945;1945;Retired;1;6.066;5.12;1.16;6;648
+N1K Kyofu / Shiden;Fighter;Kawasaki Aircraft Company Limited;Japan;1435;1943;1945;1945;Retired;1;8.885;12;4.06;23.5;656
+N3N;Other;Naval Aircraft Factory, Philadelphia, Pennsylvania, United States;United States;997;1936;1942;1961;Retired;2;7.77;10.36;3.3;28.3;203
+OS2U Kingfisher;Seaplane;Chance Vought Corporation;United States;1519;1938;;1959;Retired;2;10.241;10.94;4.47;24.33;275
+P-26 Peashooter;Fighter;The Boeing Company;United States;151;1933;1936;1956;Retired;1;7.19;8.5;3;23;377
+P-36 Hawk;Fighter;Curtiss-Wright Corporation;United States;245;1937;;1954;Retired;1;8.69;11.38;2.57;21.92;504
+P-38 Lightning;Heavy Fighter;Lockheed Corporation;United States;10037;1941;1945;1965;Retired;1;11.53;15.85;3.91;30.43;666
+P-39 Airacobra;Fighter;Bell Aircraft Corporation;United States;9584;1939;1944;1948;Retired;1;9.19;10.36;3.78;19.8;626
+P-40 Warhawk;Fighter;Curtiss-Wright Corporation;United States;13738;1940;1944;1958;Retired;1;9.665;11.367;3.25;21.9;538
+P-43 Lancer;Fighter;Republic Aviation Company;United States;272;1941;1941;1944;Retired;1;8.7;11;4.3;20.7;573
+P-47 Thunderbolt;Fighter;Republic Aviation Company;United States;15636;1942;1945;1966;Retired;1;110.173;12.429;4.472;27.87;686
+P-51 Mustang;Fighter;North American Aviation;United States;15875;1942;;1984;Retired;1;9.83;11;4.077;21.8;710
+P-61 Black Widow;Night Fighter;Northrop Corporation;United States;706;1944;;1952;Retired;3;15.11;20.12;4.47;61.535;589
+P-63 Kingcobra;Fighter;Bell Aircraft Corporation;United States;3303;1943;1945;;Active;1;9.96;11.68;3.84;23;660
+P-66 Vanguard;Fighter;Vultee Aircraft Corporation;United States;146;1941;1942;1943;Retired;1;8.66;10.92;2.87;18.28;550
+P-80 Shooting Star;Jet Fighter;Lockheed Corporation;United States;1715;1945;1950;1974;Retired;1;10.49;11.81;3.43;22.07;956
+P.108;Heavy Bomber;Piaggio Aero Industries;Italy;48;1942;;1945;Retired;7;22.3;32;6;135;475
+P.111;Prototype Aircraft;Piaggio Aero Industries;Italy;1;1941;1941;1943;Retired;3;1.239.838;17.3;3.91;40;575
+P.119;Prototype Aircraft;Piaggio Aero Industries;Italy;1;;1942;;Cancelled;1;9.7;13;2.9;27.8;644
+P.82 Defiant;Heavy Fighter;Boulton Paul Aircraft Ltd;United Kingdom;1064;1939;;1942;Retired;2;10.77;11.99;3.45;23;489
+P1Y Ginga;Medium Bomber;Yokosuka Naval Air Technical Arsenal;Japan;1102;1945;1945;1945;Retired;3;15;20;4.3;55;547
+P2Y;Seaplane;Consolidated Aircraft;United States;78;1931;;1941;Retired;5;18.82;30.48;5.82;140.65;240
+PB2Y Coronado;Seaplane;Consolidated Aircraft;United States;217;1937;1945;1945;Retired;10;24.2;35;8.4;165;310
+PBM Mariner;Seaplane;Glenn L. Martin Company;United States;1366;1940;1949;1964;Retired;7;23.5;36;5.33;131;330
+PBY Catalina;Seaplane;Consolidated Aircraft;United States;3305;1936;1945;1957;Retired;10;1.947.863;32;6.43;130;315
+Pe-2 Peshka;Dive Bomber;Petlyakov OKB;Russia;11400;1941;1945;1957;Retired;3;12.66;17.16;3.5;40.5;580
+Pe-8;Heavy Bomber;Petlyakov OKB;Russia;93;1940;1941;1952;Retired;11;23.2;39.13;6.2;188.66;443
+Potez 630;Heavy Fighter;Socit Nationale de Constructions Aronautiques du Nord;France;1395;1938;1940;1945;Retired;3;10.93;16;3.08;32.7;425
+Proctor;Other;Percival Aircraft Limited;United Kingdom;1143;1941;1969;1955;Retired;2;8.59;12.04;2.21;18.8;253
+PZL.11;Fighter;Pa?stwowe Zak?ady Lotnicze;Poland;325;1935;1936;1944;Retired;1;7.55;10.719;2.85;17.9;390
+PZL.23 Karas;Light Bomber;Pa?stwowe Zak?ady Lotnicze;Poland;253;1936;1938;1946;Retired;2;9.682;13.95;3.3;26.8;319
+PZL.24;Fighter;Pa?stwowe Zak?ady Lotnicze;Poland;215;1933;;1960;Retired;1;7.5;10.719;2.69;17.9;410
+PZL.37 Los;Medium Bomber;Pa?stwowe Zak?ady Lotnicze;Poland;122;1936;1939;1944;Retired;4;12.92;17.93;5.1;53.5;412
+PZL.7;Fighter;Pa?stwowe Zak?ady Lotnicze;Poland;151;1933;1933;1939;Retired;1;7.16;10.3;2.75;17.2;317
+R3D;Transport;Douglas Aircraft Company;United States;12;1940;1941;1949;Retired;3;18.95;24;6.05;76.6;370
+Re.2000 Falco I;Fighter;Reggiane;Italy;186;1940;1941;1945;Retired;1;7.99;11;3.2;20.4;530
+Re.2001 Falco II;Fighter;Reggiane;Italy;237;1942;;1945;Retired;1;8.36;11;3.15;20.4;542
+Re.2002 Ariete;Fighter;Reggiane;Italy;225;1942;;1945;Retired;1;8.16;11;3.15;20.4;530
+Re.2005 Sagittario;Fighter;Reggiane;Italy;48;1943;1944;1945;Retired;1;8.73;11;3.15;20.4;628
+Ro.37 Lince;Reconnaissance Aircraft;Industrie Meccaniche Aeronautiche Meridionali;Italy;617;1935;1939;1943;Retired;2;85.662;31.433;31.35;31.35;330
+Roc;Heavy Fighter;Blackburn Aircraft Limited;United Kingdom;136;1939;;1943;Retired;2;10.85;14.02;3.68;29;359
+S-43;Seaplane;Sikorsky Aircraft Corporation;United States;53;1934;;1947;Retired;2;15.6;26.21;5.38;72.52;310
+S.25 Sunderland;Seaplane;Short Brothers plc;United Kingdom;749;1938;1946;1967;Retired;11;26.01;34.379;10.02;138.1;340
+S.55;Seaplane;Savoia-Marchetti;Italy;243;1926;;1945;Retired;6;16.5;24;5;92;205
+SAI.207;Fighter;Ambrosini;Italy;14;1941;1942;1943;Retired;1;80.201;9.004;2.87;13.9;641
+SB;Light Bomber;Tupolev Design Bureau;Russia;6945;1936;1941;1950;Retired;3;12.57;20.33;3.6;56.7;450
+SB2C Helldiver;Dive Bomber;Curtiss-Wright Corporation;United States;7140;1943;1945;1959;Retired;2;11.18;15.16;4.01;39.2;475
+SB2U Vindicator;Dive Bomber;Vought;United States;260;1937;1940;1945;Retired;2;10.357;12.773;4.34;28.36;391
+SBD Dauntless;Dive Bomber;Douglas Aircraft Company;United States;5936;1940;1944;1959;Retired;2;100.902;1.265.873;4.14;30.2;410
+SC Seahawk;Seaplane;Curtiss-Wright Corporation;United States;577;1944;1945;1949;Retired;1;11.087;12.5;4.88;26;504
+Sea Otter;Seaplane;Supermarine Aviation Works;United Kingdom;292;1944;1945;1952;Retired;4;12.12;14.02;4.93;57;262
+Seal;Reconnaissance Aircraft;Fairey Aviation;United Kingdom;91;1933;;1943;Retired;3;10.26;13.94;3.89;41.2;222
+Skua;Dive Bomber;Blackburn Aircraft Limited;United Kingdom;192;1938;1941;1945;Retired;2;10.85;14.07;3.81;29.6;362
+SM.79 Sparviero;Medium Bomber;Savoia-Marchetti;Italy;1330;1936;1945;1959;Retired;6;16.2;20.2;4.1;61.7;460
+SM.81 Pipistrello;Medium Bomber;Savoia-Marchetti;Italy;535;1935;;1950;Retired;6;18.3;24;4.3;92.2;340
+SM.82 Marsupiale;Medium Bomber;Savoia-Marchetti;Italy;727;1940;1944;1960;Retired;4;22.9;29.68;6;118.6;347
+SM.84;Torpedo Bomber;Savoia-Marchetti;Italy;329;1941;;1948;Retired;5;17.93;21.1;4.59;61;467
+SOC Seagull;Seaplane;Curtiss-Wright Corporation;United States;322;1935;1940;1945;Retired;2;9.58;10.97;4.5;31.8;266
+Spitfire;Fighter;Supermarine Aviation Works;United Kingdom;20351;1938;1948;1961;Retired;1;9.12;11.23;3.48;22.49;600
+Stirling;Heavy Bomber;Short Brothers plc;United Kingdom;2371;1941;1945;1951;Retired;7;26.59;30.2;6.93;136;454
+Su-2;Ground Attack Aircraft;Sukhoi Design Bureau;Russia;910;1939;;1944;Retired;2;10.46;14.3;3.75;29;485
+Swordfish;Torpedo Bomber;Fairey Aviation;United Kingdom;2400;1936;1944;1945;Retired;3;10.87;13.87;3.76;56.4;230
+Ta 154 Moskito;Night Fighter;Focke-Wulf Flugzeugbau GmbH;Germany;31;1943;1945;;Retired;2;12.45;16;3.5;32.4;650
+TB-3;Heavy Bomber;Voronezh Aircraft Production Association;Russia;818;1932;1937;1945;Retired;10;24.4;41.8;8.5;234.5;212
+TBD Devastator;Torpedo Bomber;Douglas Aircraft Company;United States;13;1937;1939;1944;Retired;3;10.67;15.24;4.6;39.2;332
+TBF Avenger;Torpedo Bomber;Grumman Aircraft Engineering Corporation;United States;9837;1942;;1960;Retired;3;12.195;16.51;5;46;447
+TDN;Assault Drone;Philadelphia Naval Aircraft Factory;United States;114;1942;1943;1945;Retired;1;11;15;;;233
+TDR;Assault Drone;Interstate Aircraft and Engineering Corporation;United States;195;1944;1944;1944;Retired;1;;15;;;230
+Tempest;Fighter;Hawker Aviation;United Kingdom;1702;1944;1944;1953;Retired;1;10.26;12.5;4.52;28.1;700
+Tornado;Prototype Aircraft;Hawker Aviation;United Kingdom;4;;1939;;Cancelled;1;10.01;12.78;4.47;26.3;641
+Tu-2;Medium Bomber;Tupolev Design Bureau;Russia;2257;1942;1948;1979;Retired;4;13.8;18.86;4.13;48.8;528
+Type 432;Prototype Aircraft;Vickers-Armstrongs, Limited;United Kingdom;1;;1942;;Cancelled;1;11.96;17.336;4.19;42;610
+Type 91;Fighter;Nakajima Aircraft Company;Japan;450;1931;1934;1937;Retired;1;7.27;11;2.79;20;300
+Typhoon;Fighter;Hawker Aviation;United Kingdom;330;1941;1945;1946;Retired;1;9.741;12.67;4.67;25.9;663
+UT-1;Other;A. S. Yakovlev Design Bureau JSC;Russia;1256;1937;1940;1942;Retired;1;5.75;7.3;2.34;9.58;257
+UT-2;Other;A. S. Yakovlev Design Bureau JSC;Russia;7323;1937;1948;1956;Retired;2;7.15;10.2;2.99;17.12;210
+Ventura;Medium Bomber;Vega Aircraft Company of Lockheed Corporation;United States;;1942;;1975;Retired;6;15.7;20;3.6;51.2;518
+Walrus;Seaplane;Supermarine Aviation Works;United Kingdom;740;1936;1944;1945;Retired;4;11.46;13.97;4.65;57;217
+Welkin;Fighter;Westland Aircraft Limited;United Kingdom;106;1944;1944;1944;Retired;1;12.65;21.34;4.8;23;620
+Wellesley;Light Bomber;Vickers-Armstrongs, Limited;United Kingdom;177;1937;1938;1944;Retired;3;11.96;22.66;4.661;59;367
+Wellington;Medium Bomber;Vickers-Armstrongs, Limited;United Kingdom;11461;1938;1945;1953;Retired;6;19.69;26.26;5.31;78;378
+Whirlwind;Heavy Fighter;Westland Aircraft Limited;United Kingdom;116;1940;1942;1943;Retired;1;9.83;13.72;3.35;23;580
+Wirraway;Other;Commonwealth Aircraft Corporation;Australia;755;1939;1946;1959;Retired;2;8.48;13.11;2.661;23.76;350
+XP-0;Fighter;Chinese Air Force Aircraft Manufacturing Factory;China;1;;1943;;Cancelled;1;8.8;11.4;3.7;22;504
+Yak-1;Fighter;A. S. Yakovlev Design Bureau JSC;Russia;8700;1940;1944;1950;Retired;1;8.48;10;2.64;17.15;592
+Yak-3;Fighter;A. S. Yakovlev Design Bureau JSC;Russia;4848;1944;1946;1952;Retired;1;8.5;9.2;2.39;14.85;646
+Yak-7;Fighter;A. S. Yakovlev Design Bureau JSC;Russia;6399;1942;1945;1946;Retired;1;8.48;10;2.75;17.15;571
+Yak-9;Fighter;A. S. Yakovlev Design Bureau JSC;Russia;16769;1942;1948;1955;Retired;1;8.5;9.74;3;17.15;600
+YO-50;Prototype Aircraft;AviaBellanca Aircraft;United States;3;;1940;;Cancelled;2;10.72;16.92;;;203
+YO-51 Dragonfly;Prototype Aircraft;Ryan Aeronautical Company;United States;3;;1940;;Cancelled;2;10.82;16;3.38;;208
+York;Transport;A. V. Roe & Company;United Kingdom;258;1943;1948;1964;Retired;5;23.93;31.09;5.03;120.5;480
+Z.1007 Alcione;Medium Bomber;Cantiere Navale Triestino;Italy;660;1939;1943;1944;Retired;5;18.35;24.8;5.22;70;458
+Z.501 Gabbiano;Seaplane;Cantiere Navale Triestino;Italy;454;1934;1943;1950;Retired;5;14.3;22.5;4.4;62;275
+Z.506 Airone;Seaplane;Cantiere Navale Triestino;Italy;316;1936;1943;1959;Retired;5;19.24;26.5;7.45;86.26;350
