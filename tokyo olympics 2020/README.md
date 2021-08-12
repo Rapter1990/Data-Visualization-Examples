@@ -27,12 +27,10 @@ Here is the link which I get a dataframe via Web Scraping : http://www.olympedia
      <td align="center"> Figure 5 </td>
      <td align="center"> Figure 6 </td>
      <td align="center"> Figure 7 </td>
-     <td align="center"> Figure 8 </td>
   </tr>
   <tr>
     <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/tokyo%20olympics%202020/images/image5.png"></td>
     <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/tokyo%20olympics%202020/images/image6.png"></td>
     <td><img width="800" height="200" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/tokyo%20olympics%202020/images/image7.png"></td>
-    <td></td>
   </tr>
 </table>
