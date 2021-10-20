@@ -22,9 +22,9 @@ The dataset is prepared from me.
      <td align="center"> Figure 3 </td>
   </tr>
   <tr>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image1.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image2.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image3.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image1.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image2.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image3.png"></td>
   </tr>
   <tr>
      <td align="center"> Figure 4 </td>
@@ -32,9 +32,9 @@ The dataset is prepared from me.
      <td align="center"> Figure 6 </td>
   </tr>
   <tr>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image4.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image5.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image6.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image4.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image5.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image6.png"></td>
   </tr>
   <tr>
      <td align="center"> Figure 7 </td>
@@ -42,9 +42,9 @@ The dataset is prepared from me.
      <td align="center"> Figure 9 </td>
   </tr>
   <tr>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image7.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image8.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image9.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image7.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image8.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image9.png"></td>
   </tr>
   <tr>
      <td align="center"> Figure 10 </td>
@@ -52,8 +52,8 @@ The dataset is prepared from me.
      <td align="center"> Figure 12 </td>
   </tr>
   <tr>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image10.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image11.png"></td>
-    <td><img width="600" height="400" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image12.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image10.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image11.png"></td>
+    <td><img width="600" height="300" src ="https://github.com/Rapter1990/Data-Visualization-Examples/blob/master/Fifa%202022/images/image12.png"></td>
   </tr>
 </table>
