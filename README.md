@@ -85,5 +85,9 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
     <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/tokyo%20olympics%202020">Tokyo 2020 Olympics Games</a></td>
     <td>Analyzing dataset containing list of medal-winning athletes during Tokyo 2020 Olympics Games</td>
   </tr>
+  <tr>
+    <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/Fifa%202022">Fifa 2022</a></td>
+    <td>Analyzing dataset containing data about information about football players in FIFA22</td>
+  </tr>
 </table>
 
